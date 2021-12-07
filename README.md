@@ -9,12 +9,12 @@ El siguiente es un markdown que contiene una guía de supervivencia con un compe
 
 ## Temáticas a estudiar
 
-### HTML
+## HTML
 Me parece que para estudiar las temáticas de HTML no se necesita más que el contenido que abarca el canal de Jhon Mircha en el siguiente video (7:42:21):
 
 **Enlace:** https://www.youtube.com/watch?v=-oK6zL01fNM
 
-#### Temas clave
+### Temas clave
 - Etiquetas básicas de estructura
 - Etiquetas semánticas
 - Formularios
@@ -22,30 +22,30 @@ Me parece que para estudiar las temáticas de HTML no se necesita más que el co
 - Integración de estilos css
 - Integración de scripts javascript 
 
-### CSS
+## CSS
 CSS es muy extenso, sin embargo, con comprender los fundamentos e ir estudiando las funcionalidades avanzadas conforme se presente la necesidad basta y sobra para el curso. Si se estudia la totalidad del siguiente video se tendrán unas bases muy sólidas y más que suficientes de CSS (9:58:21):
 
 **Enlace:** https://www.youtube.com/watch?v=K3xmRF8ab1o&t=14936s
 
-#### Temas clave
+### Temas clave
 - Selectores
 - Pseudoclases
 - Especificidad
 - Estilos
 
-### Javascript
+## Javascript
 Una vez comprendidos los fundamentos de HTML y CSS lo más importante a estudiar quizás sea el lenguaje Javascript, una buena comprensión de los aspectos básicos de Javascript garantizará que el proceso de asimilación de temáticas más avanzadas sea menos traumático, en este sentido recomiendo que antes de embarcarse a realizar aplicaciones web propiamente dichas practiquen sus habilidades de lógica realizando ejercicios para este fin, no me costó mucho encontrar por ejemplo esta página con 150 ejercicios de Javascript resueltos buscando un poco en google...
 
 **Enlace página de ejercicios:** https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 
 Les recomiendo que aprendan las temáticas según el siguiente orden y también para cada conjunto de temáticas les adjunto mi propuesta para ser estudiadas.
 
-#### Primer bloque
+### Primer bloque
 Para este primer bloque recomiendo la serie de videos del curso de Javascript de Jhon Mircha, desde el video 1 al 25, luego de estudiar correctamente estos 25 videos contará con las herramientas escenciales de Javascript, de modo que a partir de este punto es recomendable que se profundice según sea necesario en las temáticas subsecuentes.
 
 **Enlace primer video del curso:** https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&index=1
 
-##### Temas clave
+#### Temas clave
 - Tipos de datos
 - Variables
 - Cadenas de texto
@@ -64,14 +64,14 @@ Para este primer bloque recomiendo la serie de videos del curso de Javascript de
 - Herencia
 - Clases
 
-#### Segundo bloque
+### Segundo bloque
 Para este segundo bloque incluyo temas que serán fundamentales a futuro, una comprensión profunda de estas temáticas facilitarán enormemente la tarea de estudiar posteriormente las temáticas de las peticiones a APIs y en general todo lo relacionado con REACT. Para estudiar esto recomiendo los siguientes bloques de videos.
 
 **Concepto del DOM:** Video 60 al 76 **Enlace video 60:** https://www.youtube.com/watch?v=VlMiHqTR-7s&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
 
 **Programación asíncrona:** Video 44 al 48 **Enlace video 44:** https://www.youtube.com/watch?v=fcB-ShJmUxk&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
 
-##### Temas clave
+#### Temas clave
 - Concepto del DOM (Muy importante)
 - Nodos, elementos y selectores
 - Fragmentos
@@ -89,7 +89,7 @@ Para este segundo bloque incluyo temas que serán fundamentales a futuro, una co
 - Search
 - Reduce
 
-#### Tercer bloque
+### Tercer bloque
 En este tercer bloque incluiré temáticas a mi parece ya avanzadas de Javascript pero que su entendimiento nos será muy necesario para los posteriores capítulos de REACT. Para estudiar estas temáticas recomiendo los siguientes bloques de videos.
 
 **Para todo lo relacionado con this, bind y JSON:** Video 57 al 59 **Enlace video 57:** https://www.youtube.com/watch?v=NWt6-iYJJnA&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
@@ -100,7 +100,7 @@ En este tercer bloque incluiré temáticas a mi parece ya avanzadas de Javascrip
 
 **Reactividad:** Video 158 al 164 **Enlace video 158:** https://www.youtube.com/watch?v=RWTLqdS5vTo&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
 
-##### Temas clave
+#### Temas clave
 - this
 - bind
 - Archivos JSON (Muy importante)
@@ -112,14 +112,14 @@ En este tercer bloque incluiré temáticas a mi parece ya avanzadas de Javascrip
 - CRUD
 - Concepto de reactividad (Opcional - Bueno saberlo)
 
-### REACT
+## REACT
 Si para el momento en que inicien REACT los temas anteriores estan bien afianzados esta parte del curso si bien la más exigente en cuanto a trabajos será bastante sencilla teoricamente, para abordar las temáticas de REACT recomiendo el curso de REACT del mismo profesor del video 1 al 24, esta serie de videos si se estudia muy a conciencia les darán todo lo que necesitan saber del Framework hasta el final del curso, las temáticas adicionales que se vean despues de esto se pueden considerar "añadiduras".
 
-#### Primer bloque
+### Primer bloque
 
 **Enlace primer video del curso:** https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk
 
-##### Temas clave
+#### Temas clave
 - create-react-app
 - JSX
 - Concepto de componente (Muy importante)
@@ -138,24 +138,24 @@ Si para el momento en que inicien REACT los temas anteriores estan bien afianzad
 - Estilos CSS
 - Styled Components (Requerido por la academia)
 
-#### Segundo bloque
+### Segundo bloque
 
-##### Context 
+#### Context 
 **Video 75 al 83 para una comprensión completa Enlace video 75:** https://www.youtube.com/watch?v=1lDTf6raD10&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=76
 
-##### Routers Considero que la mejor forma de aprender Routers v6 es directamente desde el tutorial que nos brindan en la documentación de React-Router no dude en sacar 40 minutos de su tiempo para leerse, comprender y transcribir el código **Enlace al tutorial:** https://reactrouter.com/docs/en/v6/getting-started/tutorial
+#### Routers Considero que la mejor forma de aprender Routers v6 es directamente desde el tutorial que nos brindan en la documentación de React-Router no dude en sacar 40 minutos de su tiempo para leerse, comprender y transcribir el código **Enlace al tutorial:** https://reactrouter.com/docs/en/v6/getting-started/tutorial
 
-##### Reducers
+#### Reducers
 Este tema se ve también durante la implementación de los hooks, sin embargo me parece muy muy util tener una buena comprensión del concepto de Reducers para que a la hora de estudiar Redux el proceso no sea tan traumático.
 
 **Video 84 al 93 Enlace al video 84:** https://www.youtube.com/watch?v=Qisq6I_buBo&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=85
 
-##### Redux
+#### Redux
 Redux es quizás la temática más compleja de todo el curso por lo que en este aspecto si recomiendo prestarle especial atención a las explicaciones del mentor, yo personalmente estudié con base a la documentación de Redux, sin embargo se me hace bastante compleja y poco práctica para un estudiante sin bases, igualmente les adjunto un tutorial de youtube que me fué de especial ayuda 
 
 **Enlace tutorial:** https://www.youtube.com/watch?v=c0MpQeOKc-4&t=2202s
 
-##### Temas clave
+#### Temas clave
 - Context
 - Routers
 - Reducers
