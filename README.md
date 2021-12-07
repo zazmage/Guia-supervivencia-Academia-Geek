@@ -15,10 +15,17 @@ Me parece que para estudiar las temáticas de HTML no se necesita más que el co
 - Formularios
 
 ### CSS
-Me parece que para estudiar las temáticas de HTML no se necesita más que el contenido que abarca el canal de Jhon Mirsha en el siguiente video (7:42:21):
-**Enlace:** https://www.youtube.com/watch?v=-oK6zL01fNM
-- Etiquetas básicas de estructura
-- Etiquetas semánticas
-- Formularios
+CSS es muy extenso, sin embargo, con comprender los fundamentos e ir estudiando las funcionalidades avanzadas conforme se presente la necesidad basta y sobra para el curso. Si se estudia la totalidad del siguiente video se tendrán unas bases muy sólidas y más que suficientes de CSS (9:58:21):
+**Enlace:** https://www.youtube.com/watch?v=K3xmRF8ab1o&t=14936s
+- Selectores
+- Pseudoclases
+- Especificidad
+- Estilos
 
 ### Javascript
+
+### REACT
+
+### Firebase
+
+### Redux
