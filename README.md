@@ -143,7 +143,8 @@ Si para el momento en que inicien REACT los temas anteriores estan bien afianzad
 #### Context 
 **Video 75 al 83 para una comprensión completa Enlace video 75:** https://www.youtube.com/watch?v=1lDTf6raD10&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=76
 
-#### Routers Considero que la mejor forma de aprender Routers v6 es directamente desde el tutorial que nos brindan en la documentación de React-Router no dude en sacar 40 minutos de su tiempo para leerse, comprender y transcribir el código **Enlace al tutorial:** https://reactrouter.com/docs/en/v6/getting-started/tutorial
+#### Routers
+Considero que la mejor forma de aprender Routers v6 es directamente desde el tutorial que nos brindan en la documentación de React-Router no dude en sacar 40 minutos de su tiempo para leerse, comprender y transcribir el código **Enlace al tutorial:** https://reactrouter.com/docs/en/v6/getting-started/tutorial
 
 #### Reducers
 Este tema se ve también durante la implementación de los hooks, sin embargo me parece muy muy util tener una buena comprensión del concepto de Reducers para que a la hora de estudiar Redux el proceso no sea tan traumático.
